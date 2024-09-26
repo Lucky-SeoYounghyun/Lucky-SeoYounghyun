@@ -46,10 +46,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Lucky-SeoYounghyun GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucky-SeoYounghyun&show_icons=true&theme=react&hide=stars,contribs&count_private=true)](https://github.com/Lucky-SeoYounghyun)
 
-## 🛠️ **My current Top Languages!**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-SeoYounghyun&layout=compact&theme=react)](https://github.com/Lucky-SeoYounghyun)
-
 ## 💪 **My current  Solved.ac Level!**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdudgus24)](https://solved.ac/tjdudgus24)
