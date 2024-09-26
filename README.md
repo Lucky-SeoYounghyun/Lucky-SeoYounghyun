@@ -5,11 +5,11 @@ I enjoy developing, traveling and photography
 
 ## **Life Moto**
 ### Karl Marx - "The means are nothing but means."  
-> 수단은 단순히 수단일뿐이다 그것이 목적이되면 안된다.  
+> 수단은 단순히 수단일뿐 그것이 목적이되면 안된다.  
 다양한 수단을 통해 부단히 노력하여 목적지에 도착해야한다.  
 그 목적지는 우리가 양질의 수단을 선택할 수 록 나아질것이다.  
 
-## 🗒 **Blog**
+## 📝 **Blog**
 [gitblog](https://lucky-seoyounghyun.github.io/)
 
 ## 🔥 **My currently Tech stack!**
@@ -33,7 +33,15 @@ I enjoy developing, traveling and photography
 </div>
 </div>
 
+## 💻 **Project** 
+- [Jachi3kki](https://github.com/Lucky-SeoYounghyun/Jachi3kki) (202202 ~ 2022008)
+  - 냉장고에서 잠자고있는 음식들을통해 균형잡힌 음식을 만들 수 있도록 레시피를 제공해주는 앱
+  - 총괄 프로젝트 리더 / 프론트 주요기능 개발 및 백엔드 보조(kotlin)
 
+- [FlashLight](https://github.com/Lucky-SeoYounghyun/Jachi3kki) (202406 ~ 202407)
+  - 다른앱을 쓰면서 핸드폰 후레쉬를 손쉽게 컨트롤 할 수 있는 앱
+  - 1인 개발 / 디자인 ~ 모든 기능 개발
+ 
 ## 📝 **Please contact me in the following way!** 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![_0_master](http://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lucky_0_master/)
@@ -51,7 +59,7 @@ I enjoy developing, traveling and photography
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdudgus24)](https://solved.ac/tjdudgus24)
 
-## **Open Source Contribution**
+## 💬 **Open Source Contribution**
 [chirpy 이슈 제공 및 일부 픽스](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1965)
 
 <!--
