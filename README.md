@@ -51,7 +51,7 @@
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdudgus24)](https://solved.ac/tjdudgus24)
 
 ## 💬 **Open Source Contribution**
-[chirpy 픽스 및 이슈 제공](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1965)
+[chirpy 코드픽스 및 이슈 제공](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1965)
 - fixing the error when the number of pins exceeds the pagination count
 
 <!--
