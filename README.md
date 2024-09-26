@@ -1,16 +1,11 @@
-## 👋 **Hi there** 
-I'm a full stack developer  
-Sometimes I develop mobile apps and websites  
-I enjoy developing, traveling and photography
+## 📝 **Blog**
+[gitblog](https://lucky-seoyounghyun.github.io/)
 
 ## **Life Moto**
 ### Karl Marx - "The means are nothing but means."  
 > 수단은 단순히 수단일뿐 그것이 목적이되면 안된다.  
 다양한 수단을 통해 부단히 노력하여 목적지에 도착해야한다.  
 그 목적지는 우리가 양질의 수단을 선택할 수 록 나아질것이다.  
-
-## 📝 **Blog**
-[gitblog](https://lucky-seoyounghyun.github.io/)
 
 ## 🔥 **My currently Tech stack!**
 <h4 style="padding-left: 20px; margin-top: 15px;">· Main Tech</h4>
