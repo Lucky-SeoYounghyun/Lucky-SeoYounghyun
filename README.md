@@ -1,4 +1,58 @@
-## Hi there 👋
+## 👋 **Hi there** 
+I'm a full stack developer  
+Sometimes I develop mobile apps and websites  
+I enjoy developing, traveling and photography
+
+## **Life Moto**
+### Karl Marx - "The means are nothing but means."  
+> 수단은 단순히 수단일뿐이다 그것이 목적이되면 안된다.  
+다양한 수단을 통해 부단히 노력하여 목적지에 도착해야한다.  
+그 목적지는 우리가 양질의 수단을 선택할 수 록 나아질것이다.  
+
+## 🗒 **Blog**
+[gitblog](https://lucky-seoyounghyun.github.io/)
+
+## 🔥 **My currently Tech stack!**
+<h4 style="padding-left: 20px; margin-top: 15px;">· Main Tech</h4>
+<div style="padding-left: 20px; margin-top: -15px;">  
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white"> 
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-CC6699?style=flat&logo=figma&logoColor=white"> 
+  <br/>
+<h4  style="padding-left: 20px; margin-top:15px;">· Sub Tech</h4>
+<div style="padding-left: 20px; margin-top: -15px;">  
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
+</div>
+</div>
+
+
+## 📝 **Please contact me in the following way!** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![_0_master](http://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lucky_0_master/)
+[![tigerseo7686@gmail.com](http://img.shields.io/badge/-tigerseo7686@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tigerseo7686@gmail.com)
+
+## 📚 **I'm currently working on various project!**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Lucky-SeoYounghyun GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucky-SeoYounghyun&show_icons=true&theme=react&hide=stars,contribs&count_private=true)](https://github.com/Lucky-SeoYounghyun)
+
+## 🛠️ **My current Top Languages!**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-SeoYounghyun&layout=compact&theme=react)](https://github.com/Lucky-SeoYounghyun)
+
+## 💪 **My current  Solved.ac Level!**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdudgus24)](https://solved.ac/tjdudgus24)
+
+## **Open Source Contribution**
+[chirpy 이슈 제공 및 일부 픽스](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1965)
 
 <!--
 **Lucky-SeoYounghyun/Lucky-SeoYounghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
