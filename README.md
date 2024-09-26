@@ -52,10 +52,11 @@
 
 ## 💬 **Open Source Contribution**
 [chirpy 픽스 및 이슈 제공](https://github.com/cotes2020/jekyll-theme-chirpy/pull/1965)
-
+- fixing the error when the number of pins exceeds the pagination count
+- 
 <!--
 **Lucky-SeoYounghyun/Lucky-SeoYounghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
