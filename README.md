@@ -33,11 +33,11 @@
 </div>
 
 ## 💻 **Project** 
-- [Jachi3kki](https://github.com/Lucky-SeoYounghyun/Jachi3kki) (202202 ~ 2022008)
+- [Jachi3kki](https://github.com/Lucky-SeoYounghyun/Jachi3kki) (202202 ~ 2022008) / 구글 서비스 종료
   - 냉장고에서 잠자고있는 음식들을통해 균형잡힌 음식을 만들 수 있도록 레시피를 제공해주는 앱
   - 총괄 프로젝트 리더 / 프론트 주요기능 개발 및 백엔드 보조(kotlin)
 
-- [FlashLight](https://github.com/Lucky-SeoYounghyun/Jachi3kki) (202406 ~ 202407) / [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Google_Play_2022_logo.svg/2880px-Google_Play_2022_logo.svg.png" width="70"/>](https://play.google.com/store/apps/details?id=com.strongflashlight.flashlight&pcampaignid=web_share)
+- [FlashLight](https://github.com/Lucky-SeoYounghyun/Jachi3kki) (202406 ~ 202407) / [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Google_Play_2022_logo.svg/2880px-Google_Play_2022_logo.svg.png" width="70"/>](https://play.google.com/store/apps/details?id=com.strongflashlight.flashlight&pcampaignid=web_share) 현재서비스중
 
   - 다른앱을 쓰면서 핸드폰 후레쉬를 손쉽게 컨트롤 할 수 있는 앱
   - 1인 개발 / 디자인 ~ 모든 기능 개발
