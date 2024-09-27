@@ -9,7 +9,8 @@
 
 ## 🔥 **My currently Tech stack!**
 - Main Tech
-<div style="padding-left: 20px; margin-top: -15px;">  
+<div style="padding-left: 20px; margin-top: -15px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
@@ -18,10 +19,13 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/figma-CC6699?style=flat&logo=figma&logoColor=white"> 
-  <br/>
 </div>
+
+  <br/>
+  
 - Sub Tech
 <div style="padding-left: 20px; margin-top: -15px;">  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
